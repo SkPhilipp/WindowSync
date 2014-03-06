@@ -1,6 +1,8 @@
 WindowSync
 ==========
 
+_This project is no longer maintained and part of my source code "attic". Feel free to use it though, works fine._
+
 For sending data across browser’s windows and tabs, fully clientside – through localStorage. This library enables you to share data and update browser windows the user has open, using the shared localStorage. Also keeps track of open windows, and assigns an identifier to them.
 
 
